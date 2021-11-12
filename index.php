@@ -133,7 +133,7 @@
 
     <main>
         <h1>Welcome to To-Do</h1>
-        <h3>We help you to organise your day in the most efficient way.</h3>
+        <h3>We help you organise your day in the most efficient way.</h3>
     <div class="enter-task">
         <form action="index.php" method="POST">
             Task: <input type="text" placeholder="Enter Task here:)" name = "task">
@@ -158,7 +158,7 @@
     </table>
     </main>
     <footer>
-        Follow us @nawed2611
+        Follow me: @nawed2611
     </footer>
     </body>
 
